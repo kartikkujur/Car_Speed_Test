@@ -11,6 +11,7 @@ My Car Speed Test GPS
   rel="stylesheet"
   href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
   <meta name="google-site-verification" content="E8G7aip5KatJ0BRmGzxPg6o8TJ1K8acLmci8oKZdWec" />
+  <meta name="google-site-verification" content="E8G7aip5KatJ0BRmGzxPg6o8TJ1K8acLmci8oKZdWec" />
 />
 
 <style>
