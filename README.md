@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="hi">
 <head>
+  <meta name="google-site-verification" content="E8G7aip5KatJ0BRmGzxPg6o8TJ1K8acLmci8oKZdWec" />
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Speed Meter Test — Har Vehicle Ka</title>
