@@ -16,6 +16,8 @@ My Car Speed Test GPS
 
 <style>
   body {
+
+    <meta name="google-site-verification" content="E8G7aip5KatJ0BRmGzxPg6o8TJ1K8acLmci8oKZdWec" />
     margin: 0;
     font-family: "Montserrat", sans-serif;
     background: linear-gradient(135deg, #0f172a, #111827);
